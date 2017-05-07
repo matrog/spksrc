@@ -1,0 +1,9 @@
+bin:bin/iperf3
+rsc:include/iperf_api.h
+lib:lib/libiperf.a
+lib:lib/libiperf.la
+lnk:lib/libiperf.so
+lnk:lib/libiperf.so.0
+lib:lib/libiperf.so.0.0.0
+rsc:share/man/man1/iperf3.1
+rsc:share/man/man3/libiperf.3
